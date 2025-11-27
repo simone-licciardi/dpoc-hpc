@@ -14,10 +14,10 @@ The transition matrix **P** is sparse and has structure, but **cannot be written
 > — [A well-known review](https://people.maths.ox.ac.uk/wathen/preconditioning.pdf)
 
 Let the state be  
-\[
+$$
 \mathcal{X} \ni i = (i_{YV}, i_{DH}),\quad  
 i_{YV} \in \mathbb{Z}^2,\ i_{DH} \in \mathbb{Z}^{2M}.
-\]
+$$
 
 We exploit the fact that the transition kernel factorizes:
 \[
