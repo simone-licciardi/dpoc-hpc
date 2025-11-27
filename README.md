@@ -1,7 +1,7 @@
 # Dynamic Programming Challenge
 **Simone Licciardi & Samuele Cipriani**  
 _For typos: `slicciardi@student.ethz.ch`_  
-**Date:** `\today`
+**Date:** `November 2025`
 
 We detail our solution report in two sections: the details of our implementation of the DPA algorithm, and the structural characteristics of the problem that we exploited. We also attached a section about **super cool but too fancy** attempts.
 
